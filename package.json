@@ -1,7 +1,7 @@
 {
   "name": "ticket-information",
   "version": "0.1.0",
-  "homepage": "https://lanterndb.gethub.io/hq-ticket-info",
+  "homepage": "https://lanterndb.github.io/hq-ticket-info",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
