@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hq-ticket-info/static/css/main.c7c051b2.css",
+    "main.js": "/hq-ticket-info/static/js/main.b00490de.js",
+    "index.html": "/hq-ticket-info/index.html",
+    "main.c7c051b2.css.map": "/hq-ticket-info/static/css/main.c7c051b2.css.map",
+    "main.b00490de.js.map": "/hq-ticket-info/static/js/main.b00490de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c051b2.css",
+    "static/js/main.b00490de.js"
+  ]
+}
