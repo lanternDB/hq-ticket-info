@@ -1,0 +1,34 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bc-primary:   hsl(0, 0%, 10%);
+  --bc-secondary: hsl(100, 100%, 100%);
+
+  --fc-primary:   hsl(100, 100%, 100%);
+  --fc-secondary: hsl(0, 0%, 10%);
+
+  --ff-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --ff-secondary: 'Courier New';
+  
+  --fs-primary: 1rem;
+  
+  --margin: .5rem 0 0;
+  --padding: .5rem;
+}
+
+::selection {
+  background-color: var(--fc-primary);
+  color: var(--bc-primary);
+}
+
+body {
+  font-family: var(--ff-primary);
+  font-size: var(--fs-primary);
+
+  background-color: var(--bc-primary);
+  color: var(--fc-primary);
+}
