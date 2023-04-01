@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hq-ticket-info/static/css/main.c7c051b2.css",
-    "main.js": "/hq-ticket-info/static/js/main.48c8fdd3.js",
+    "main.js": "/hq-ticket-info/static/js/main.4fded327.js",
     "index.html": "/hq-ticket-info/index.html",
     "main.c7c051b2.css.map": "/hq-ticket-info/static/css/main.c7c051b2.css.map",
-    "main.48c8fdd3.js.map": "/hq-ticket-info/static/js/main.48c8fdd3.js.map"
+    "main.4fded327.js.map": "/hq-ticket-info/static/js/main.4fded327.js.map"
   },
   "entrypoints": [
     "static/css/main.c7c051b2.css",
-    "static/js/main.48c8fdd3.js"
+    "static/js/main.4fded327.js"
   ]
 }
